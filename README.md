@@ -19,3 +19,5 @@ Amorphous OS - web3 distribtributed compute system that runs entirely in browser
  https://johnsokol.blogspot.com/2023/02/lightning-talks-hacker-dojo-john-sokol.html
 
  https://churchofbsd.blogspot.com/2023/02/decentralized-storage-and-p2p-databases.html
+
+ https://p2p-social.github.io/docs/talk/ my Hackerdojo lightning talk. 
